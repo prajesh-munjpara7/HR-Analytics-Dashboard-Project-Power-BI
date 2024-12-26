@@ -1,4 +1,4 @@
-# 1. HR-Analytics-Dashboard-Project_Power-BI
+# 1. HR-Analytics-Dashboard-Project
 #### Created an HR analytics dashboard in Power BI to analyze attrition trends across demographics, salary slabs, job roles, and tenure. Identified key factors, improved hiring processes, enhanced employee experience, and provided actionable insights to reduce a 16.1% attrition rate. Skills: data cleaning, transformation, and visualization.
 # 2. Project Overview
 #### The project aimed to analyze employee attrition trends to identify key factors contributing to attrition, improve workforce retention strategies, and enhance the overall employee experience.
